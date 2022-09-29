@@ -1,1 +1,1 @@
-# citas_react_vite
+# sistema de citas. 
